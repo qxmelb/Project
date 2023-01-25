@@ -1,0 +1,15 @@
+sample_id	cell_type	parental_cell_type	final_cell_type	disease_state	organism	sample_type	tissue_of_origin	sample_name_long	media	cell_line	facs_profile_positive	facs_profile_negative	sample_description	experiment_time	sex	reprogramming_method	genetic_modification	sample_source	developmental_stage	treatment	external_source_id
+7393_RAJ6744A1	macrophage	monocyte	macrophage	normal	homo sapiens	MDM control	blood	RAJ6744A1	RPMI + 10% FBS + 100ng/ml MCSF				RAJ6744A1								GSM4560326
+7393_RAJ6744A10	macrophage	induced pluripotent stem cell	macrophage	normal	homo sapiens	iMac control		RAJ6744A10	RPMI + 10% FBS + 100ng/ml MCSF	PB001.1			RAJ6744A10								GSM4560334
+7393_RAJ6744A11	macrophage	induced pluripotent stem cell	macrophage	normal	homo sapiens	iMac acute		RAJ6744A11	RPMI + 10% FBS + 100ng/ml MCSF	PB001.1			10ng/ml LPS for 2 hours							LPS	GSM4560335
+7393_RAJ6744A12	macrophage	induced pluripotent stem cell	macrophage	normal	homo sapiens	iMac tolerance		RAJ6744A12	RPMI + 10% FBS + 100ng/ml MCSF	PB001.1			RAJ6744A12							10ng/ml LPS for 18 hours, 2 hour resting period and re-stimulation with 10ng/ml LPS for 2 hours	GSM4560336
+7393_RAJ6744A13	macrophage	induced pluripotent stem cell	macrophage	normal	homo sapiens	iMac control		RAJ6744A13	RPMI + 10% FBS + 100ng/ml MCSF	HDF51			RAJ6744A13								GSM4560337
+7393_RAJ6744A14	macrophage	induced pluripotent stem cell	macrophage	normal	homo sapiens	iMac acute		RAJ6744A14	RPMI + 10% FBS + 100ng/ml MCSF	HDF51			10ng/ml LPS for 2 hours							LPS	GSM4560338
+7393_RAJ6744A15	macrophage	induced pluripotent stem cell	macrophage	normal	homo sapiens	iMac tolerance		RAJ6744A15	RPMI + 10% FBS + 100ng/ml MCSF	HDF51			RAJ6744A15							10ng/ml LPS for 18 hours, 2 hour resting period and re-stimulation with 10ng/ml LPS for 2 hours	GSM4560339
+7393_RAJ6744A2	macrophage	monocyte	macrophage	normal	homo sapiens	MDM acute	blood	RAJ6744A2	RPMI + 10% FBS + 100ng/ml MCSF				10ng/ml LPS for 2 hours							LPS	GSM4560327
+7393_RAJ6744A4	macrophage	monocyte	macrophage	normal	homo sapiens	MDM control	blood	RAJ6744A4	RPMI + 10% FBS + 100ng/ml MCSF				RAJ6744A4								GSM4560329
+7393_RAJ6744A5	macrophage	monocyte	macrophage	normal	homo sapiens	MDM acute	blood	RAJ6744A5	RPMI + 10% FBS + 100ng/ml MCSF				10ng/ml LPS for 2 hours							LPS	GSM4560330
+7393_RAJ6744A6	macrophage	monocyte	macrophage	normal	homo sapiens	MDM tolerance	blood	RAJ6744A6	RPMI + 10% FBS + 100ng/ml MCSF				RAJ6744A6							10ng/ml LPS for 18 hours, 2 hour resting period and re-stimulation with 10ng/ml LPS for 2 hours	GSM4560328
+7393_RAJ6744A7	macrophage	monocyte	macrophage	normal	homo sapiens	MDM control	blood	RAJ6744A7	RPMI + 10% FBS + 100ng/ml MCSF				RAJ6744A7								GSM4560332
+7393_RAJ6744A8	macrophage	monocyte	macrophage	normal	homo sapiens	MDM acute	blood	RAJ6744A8	RPMI + 10% FBS + 100ng/ml MCSF				10ng/ml LPS for 2 hours							LPS	GSM4560333
+7393_RAJ6744A9	macrophage	monocyte	macrophage	normal	homo sapiens	MDM tolerance	blood	RAJ6744A9	RPMI + 10% FBS + 100ng/ml MCSF				RAJ6744A9							10ng/ml LPS for 18 hours, 2 hour resting period and re-stimulation with 10ng/ml LPS for 2 hours	GSM4560331
