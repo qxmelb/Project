@@ -16,7 +16,7 @@ data = []
 # Arbitrarily Select Gene on line 36 (ENSG00000237973)
 # Account for tab spacing and remove gene identifier on col 1
 for num in array[35].strip().split('\t')[1:]:
-    data.append(int(num))
+    data.append(float(num))
 
 # Enter data into boxplot
 plot = plt.boxplot(data)
